@@ -127,7 +127,7 @@ echo $pesan;
             }
 
         } else {
-            echo "Anda belum input nama dan jumlah";
+            echo "Anda belum input nama dan jumlah.";
         }
     ?>
 </body>
